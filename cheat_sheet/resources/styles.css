@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: darkorchid;
+    /* text-align: center; */
+}
+
+h2 {
+    color: plum
+}
+
+thead {
+    background-color: plum;
+}
+
+table {
+    border: 2px solid darkorchid;
+    width: 650px;
+    margin: 0 auto;
+  }
+
+td {
+    border: 1px solid darkorchid;
+    padding: 4px 8px;
+}
+
+th {
+    border: 1px solid darkorchid; 
+    padding: 4px 8px;
+}
+  
+td, th {
+    text-align: left;
+}
